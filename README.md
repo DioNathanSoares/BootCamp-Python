@@ -31,3 +31,8 @@ Recursos utilizados:
   - Site construído com base no canvas (estruturado em 3 arquivos: HTML, CSS e JavaScript);
   - 3 Notebooks criados para executar de acordo com a temperatura do tipo de conteúdo: iniciante, intermediário e avançado;
   - Publicação do site para facilitar o acesso ao conteúdo em outros computadores e dispositivos.
+
+Recursos utilizados:
+  - Site construído com base no canvas (estruturado em 3 arquivos: HTML, CSS e JavaScript);
+  - 3 Notebooks criados para executar de acordo com a temperatura do tipo de conteúdo: iniciante, intermediário e avançado;
+  - Publicação do site para facilitar o acesso ao conteúdo em outros computadores e dispositivos.
